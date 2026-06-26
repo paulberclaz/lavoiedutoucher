@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
-  <title>Présentation du thérapeute</title>
+  <title>Présentation de la thérapeute</title>
   <desc>Parcours • Transmission • Cabinet</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -27,5 +27,5 @@
   </g>
   <text x="180" y="260" fill="#2F3E46" font-size="62" font-family="Georgia, 'Times New Roman', serif" font-weight="700">Présentation du thérapeute</text>
   <text x="180" y="330" fill="#8C6A4A" font-size="30" font-family="Georgia, 'Times New Roman', serif">Parcours • Transmission • Cabinet</text>
-  <text x="180" y="700" fill="#2F3E46" font-size="22" font-family="Georgia, 'Times New Roman', serif">Cabinet de thérapies complémentaires</text>
+  <text x="180" y="700" fill="#2F3E46" font-size="22" font-family="Georgia, 'Times New Roman', serif">La Voie du Toucher</text>
 </svg>
